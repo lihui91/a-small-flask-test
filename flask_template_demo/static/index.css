@@ -1,0 +1,32 @@
+@charset "utf-8";
+.tb {
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 200px;
+    width: 60%;
+    border-collapse: collapse;
+}
+.row1 {
+    width: 16%;
+}
+
+.row3{
+    width: 18%;
+}
+
+.cap {
+    color: #F31A1E;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-weight: 400;
+    font-size: large;
+    line-height: 2em;
+}
+
+td{
+    text-align: center;
+	
+}
+body {
+    background-color: #67FFAC;
+}
